@@ -1,86 +1,22 @@
-<h1 align="center">Hi 👋, I'm Samar Agneev</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking | Web Security | Linux | Python</h3>
+# Hi, I'm Samar Agneev
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepaktecz&label=Profile%20Views&color=blue&style=flat" />
-</p>
+### AI Engineer | Building AI-powered applications and developer tools
 
----
+I build software that brings useful AI capabilities into practical workflows. My projects explore AI-assisted development, image generation, and secure-by-design engineering.
 
-## 👨‍💻 About Me
+- Current focus: AI application engineering and model API integrations
+- Interested in: developer tools, human-approved AI workflows, and application security
+- Languages and tools: JavaScript, Node.js, Python, HTML, CSS, Git, and GitHub
 
-Dedicated to cybersecurity, ethical hacking, and digital security. Passionate about understanding system vulnerabilities, securing web applications, and continuously expanding technical expertise in offensive and defensive security practices.
+## Featured Projects
 
-* 🔐 Focused on Cybersecurity & Ethical Hacking
-* 🌐 Learning Web Application Security
-* 🐧 Working with Linux Environments
-* 🐍 Developing Security Skills with Python
-* 📚 Continuously Exploring Modern Security Technologies
+- [Forge](https://github.com/SamarAgneev/Forge) - An open-source, approval-gated AI coding agent for repository-aware development.
+- [AI Image Generator](https://github.com/SamarAgneev/AI-Image-Generator) - A browser app for generating images from text prompts through an image API.
+- [WebNova](https://github.com/SamarAgneev/WebNova) - A personal portfolio website built with HTML, CSS, and JavaScript.
 
----
+## Connect
 
-## 🛠️ Technical Skills
+- [LinkedIn](https://www.linkedin.com/in/samaragneev)
+- [Portfolio](https://samar-agneev.github.io/WebNova)
 
-### Cybersecurity
-
-* Web Application Security
-* Network Security
-* Vulnerability Assessment
-* Security Fundamentals
-* Ethical Hacking
-
-### Programming
-
-* Python
-* JavaScript
-* HTML5
-* CSS3
-
-### Tools & Platforms
-
-* Linux
-* Git & GitHub
-* VS Code
-* Chrome DevTools
-
----
-
-## 🚀 Projects
-
-### WebNova – Personal Portfolio
-
-Responsive portfolio website showcasing skills and projects.
-
-**Tech Stack**
-
-* HTML
-* CSS
-* JavaScript
-
-🔗 https://samar-agneev.github.io/WebNova
-
----
-
-### E-Commerce Website
-
-Responsive e-commerce interface with product listings and cart functionality.
-
-**Tech Stack**
-
-* HTML
-* CSS
-* JavaScript
-* jQuery
-
-🔗 https://e-commerce-auraa.netlify.app/
-
----
-
-## 📫 Connect With Me
-
-* 💻 PortFolio: https://samar-agneev.github.io/WebNova
-* 💼 LinkedIn: https://www.linkedin.com/in/samaragneev
-
----
-
-⭐ Securing Systems • Learning Continuously • Building the Future
+I am continuing to deepen my skills in AI engineering, software development, and secure application design.
