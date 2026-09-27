@@ -1,61 +1,49 @@
-<div align="center">
-  <h1>Samar Agneev</h1>
-  <p><strong>AI Engineer · AI Applications · Developer Tools · Secure Software</strong></p>
-  <p>Building practical AI products with thoughtful engineering and human-centered safeguards.</p>
-  <p>
-    <a href="https://samar-agneev.github.io/WebNova/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/samaragneev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:samaragneev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
-</div>
+# Samar Agneev
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=190&section=header&text=Hi,%20I'm%20Samar&fontSize=38&fontColor=58a6ff&fontAlignY=45&desc=Software%20Developer&descSize=18&descAlignY=65&descColor=8b949e" width="100%" alt="Hi, I'm Samar"></p>
 
-### 👋 Profile
+<p align="center"><b>PROCESS AUTOMATION SPECIAL</b><br><sub>Designing systems that turn ambitious ideas into calm, dependable software.</sub></p>
 
-I build software that brings AI capabilities into practical workflows. My work focuses on AI-powered applications and developer tools, with an ongoing interest in security, reliability, and user control.
+<p align="center"><img src="https://github.com/SamarAgneev.png?size=240" width="140" alt="Samar Agneev"></p>
 
-### ✦ Selected Work
+## About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/SamarAgneev/Forge">Forge</a></h3>
-      <p>An open-source AI coding agent with approval-gated repository changes and terminal commands.</p>
-      <img alt="AI developer tool" src="https://img.shields.io/badge/AI-Developer_Tool-2563EB?style=flat-square&logo=github&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/SamarAgneev/GuardianLink">GuardianLink</a></h3>
-      <p>A consent-oriented project spanning Android apps, Firebase services, and a React dashboard prototype.</p>
-      <img alt="Android and Firebase" src="https://img.shields.io/badge/Android-Firebase-16A34A?style=flat-square&logo=firebase&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✧ <a href="https://github.com/SamarAgneev/AI-Image-Generator">AI Image Generator</a></h3>
-      <p>A browser app connecting text prompts to an image-generation API.</p>
-      <img alt="Generative AI" src="https://img.shields.io/badge/Generative_AI-Image_Creation-7C3AED?style=flat-square&logo=openai&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/SamarAgneev/WebNova">WebNova</a></h3>
-      <p>A personal portfolio built with HTML, CSS, and JavaScript.</p>
-      <img alt="Web development" src="https://img.shields.io/badge/Web-Portfolio-0891B2?style=flat-square&logo=html5&logoColor=white">
-    </td>
-  </tr>
-</table>
+I build software that brings AI capabilities into practical workflows. My work spans AI-powered applications, developer tools, and secure systems designed around user control.
 
-### 🧰 Technologies
+> Curious engineering, thoughtful interfaces, and products that make difficult work feel lighter.
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111">
-</p>
+## Featured Projects
 
-### 🎯 Current Focus
+| Project | What it does |
+| --- | --- |
+| [Forge](https://github.com/SamarAgneev/Forge) | Open-source AI coding agent with approval-gated repository changes and terminal commands. |
+| [GuardianLink](https://github.com/SamarAgneev/GuardianLink) | Consent-oriented Android, Firebase, and React dashboard project. |
+| [AI Image Generator](https://github.com/SamarAgneev/AI-Image-Generator) | Browser application connecting creative prompts to an image-generation API. |
+| [WebNova](https://github.com/SamarAgneev/WebNova) | Personal portfolio built with HTML, CSS, and JavaScript. |
 
-Building useful AI applications and developer tools while deepening my software engineering and secure system design foundations.
+## Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,nodejs,react,firebase,html,css,git,github,linux&perline=6" alt="Technology stack"></p>
+
+## GitHub Analytics
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SamarAgneev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" width="100%" alt="GitHub statistics"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarAgneev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"></p>
+
+## Current Focus & Interests
+
+- AI-assisted developer workflows
+- Secure and consent-aware software
+- Reliable full-stack product systems
+- Interfaces that keep humans in control
+
+## Beyond Code
+
+Exploring new technologies, sharpening problem-solving skills, and learning how thoughtful design can make powerful tools easier to trust.
+
+## Let's Connect
+
+<p align="center">Have an interesting idea or a meaningful problem to solve?<br><a href="mailto:samaragneev@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-58a6ff?style=for-the-badge&logoColor=0d1117" alt="Start a conversation"></a></p>
+
+<p align="center"><sub>Built with curiosity, care, and a little automation.</sub></p>
